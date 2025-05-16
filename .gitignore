@@ -58,3 +58,4 @@ compose-cache/
 # Others
 *.apk
 *.ap_
+app/google-services.json
